@@ -31,7 +31,7 @@ This project aims to develop a robust statistical model to predict neonatal weig
 
 ## Explore My Code
 
-🔗 **GitHub Repository:** Dive into the codebase (File .R) of the project. Discover how exploratory data analysis, hypothesis testing, and regression modeling come together to predict neonatal weight effectively. See how each analytical step contributes to a comprehensive understanding of the factors impacting newborn health.
+🔗 **GitHub Repository:** Dive into the codebase (File .Rmd) of the project. Discover how exploratory data analysis, hypothesis testing, and regression modeling come together to predict neonatal weight effectively. See how each analytical step contributes to a comprehensive understanding of the factors impacting newborn health.
 
 ### Project Workflow
 
